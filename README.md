@@ -1,7 +1,8 @@
 # Twitter-App
 
 *High level Architecture :*
-![Architecture](./assets/dbms_finals.png)
+![image](https://github.com/user-attachments/assets/60270ab9-8fab-46a9-999b-c8b74c07c8b6)
+
 
 Social media platforms like Twitter play a crucial role in understanding public opinions and trends in today's digital world. The massive amounts of data these platforms generate offer both challenges and opportunities for analysis in diverse areas. This project creates a system that efficiently stores and retrieves Twitter data, offering search features to pull insights from tweets. 
 
