@@ -1,0 +1,31 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Assets
+/static/
+/media/
+
+# Environment variables
+.env
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Dependency directories
+lib/
+bin/
